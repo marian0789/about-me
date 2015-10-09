@@ -1,5 +1,7 @@
 # About Me
-My name is Maria Nieves, I am 16 years old. I grew up at _Brooklyn_, in a neighborhood called **Sunset Park**.  
+My name is Maria Nieves, I am 16 years old. I grew up at _Brooklyn_, in a neighborhood called **Sunset Park**.
+
+
 
 I am a _Junior_ at [H.S.T.A.T](http://www.hstat.org/) and I'm in a software engineering class. 
 
@@ -12,7 +14,7 @@ My schedule
 6. Algebra 2
 7. English
 8. Software Engineer
----
+--- 
 ##### Bio
 * What I Like ...
   * Soccer
