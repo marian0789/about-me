@@ -1,9 +1,9 @@
 # About Me
-My name is Maria Nieves, I am 16 years old. I grew up at _Brooklyn_, in a neighborhood called **Sunset Park**.
+My name is Maria Nieves, I am 16 years old. I grew up at _Brooklyn_, in a neighborhood called **_Sunset Park_**.
 
 
 
-I am a _Junior_ at [H.S.T.A.T](http://www.hstat.org/) and I'm in a software engineering class. 
+I am a **_Junior_** at [H.S.T.A.T](http://www.hstat.org/) and I'm in a software engineering class. 
 
 My schedule 
 1. Gym
@@ -24,4 +24,4 @@ My schedule
 
 
 Soccer was life in 8th grade.   
-I've been a participant at BAM and I really enjoyed it because we got to learn the tools of dance. I got to meet new people and I went to a lot of performances. It was a great experience. 
+I've been a participant at B.A.M. and I really enjoyed it because we got to learn the tools of dance. I got to meet new people and I went to a lot of performances. It was a great experience.
